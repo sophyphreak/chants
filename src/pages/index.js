@@ -183,7 +183,6 @@ const IndexPage = () => (
       Oh, deep in my heart, <br />
       I do believe <br />
       We shall overcome, some day. <br />
-      <br />
     </p>
     <p>
       26. <br />
