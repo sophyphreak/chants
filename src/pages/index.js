@@ -43,7 +43,7 @@ const IndexPage = () => (
     <p>
       6. <br />
       U-G-L-Y <br />
-      Corporate scurm you cheat you lie <br />
+      Corporate scum you cheat you lie <br />
       You UGLY, uh, uh, you UGLY
     </p>
     <p>
